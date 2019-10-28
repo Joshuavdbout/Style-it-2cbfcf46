@@ -1,0 +1,16 @@
+table,
+td {
+    border: 1px solid black;
+}
+
+input {
+padding: 1em;
+}
+
+thead,
+tfoot {
+    background-color: black;
+    color: black;
+}
+
+
